@@ -1,0 +1,1 @@
+01 10 * * * /usr/bin/python3 /data0/task/sendmail.py > /dev/null 2>&1
